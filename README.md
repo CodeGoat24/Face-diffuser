@@ -2,7 +2,7 @@
 
 Official implementation of [High-fidelity Person-centric Subject-to-Image Synthesis](https://arxiv.org/pdf/2311.10329.pdf).
 
-> **PrimeComposer: Faster Progressively Combined Diffusion for Image Composition with Attention Steering**<br>
+> **High-fidelity Person-centric Subject-to-Image Synthesis**<br>
 > Yibin Wang, Weizhong Zhang, Jianwei Zheng, and Cheng Jin <br>
 > 
 ## Abstract
