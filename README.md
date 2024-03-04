@@ -38,7 +38,7 @@ The two pre-trained models should be put in paths: 'model/SDM' and 'model/TDM' r
 ```bash
 bash scripts/run_inference.sh
 ```
-To generate higher-quality images, please modify the object_resolution based on the input reference images.
+To generate higher-quality images, please modify the '--object_resolution' in run_inference.sh based on the input reference images.
 
 ### Training
 Prepare the FFHQ training data following [here](https://github.com/mit-han-lab/fastcomposer), and then run training:
