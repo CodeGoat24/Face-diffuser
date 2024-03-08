@@ -1,10 +1,10 @@
-# High-fidelity Person-centric Subject-to-Image Synthesis
+# [CVPR2024] High-fidelity Person-centric Subject-to-Image Synthesis
 
 Official implementation of [High-fidelity Person-centric Subject-to-Image Synthesis](https://arxiv.org/pdf/2311.10329.pdf).
 
 > **High-fidelity Person-centric Subject-to-Image Synthesis**<br>
 > Yibin Wang, Weizhong Zhang, Jianwei Zheng, and Cheng Jin <br>
-> Accepted by CVPR2024
+
 ## Abstract
 
 Current subject-driven image generation methods encounter significant challenges in person-centric image generation. The reason is that they learn the semantic scene and person generation by fine-tuning a common pre-trained diffusion, which involves an irreconcilable training imbalance. Precisely,  to generate realistic persons, they need to sufficiently tune the pre-trained model, which inevitably causes the model to forget the rich semantic scene prior and makes scene generation over-fit to the training data. 
