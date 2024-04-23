@@ -29,8 +29,8 @@ python setup.py install
 ### Download the Pre-trained Models
 
 We provide two models, SDM and TDM, respectively.
-* [SDM](https://drive.google.com/file/d/1JArAV4t0tGcxPKm3HNt0MyH_lMlFP80c/view?usp=sharing)
-* [TDM](https://drive.google.com/file/d/12sH-Z0MdN89277-OvbgYi5Oe6zqbcDO-/view?usp=sharing)
+* [SDM](https://huggingface.co/CodeGoat24/Face-diffuser/tree/main/SDM)
+* [TDM](https://huggingface.co/CodeGoat24/Face-diffuser/tree/main/TDM)
 
 The two pre-trained models should be put in paths: 'model/SDM' and 'model/TDM' respectively.
 
