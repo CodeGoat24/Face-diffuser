@@ -61,7 +61,7 @@ If you find Face-Diffuser useful or relevant to your research, please kindly cit
 @article{wang2023high,
   title={High-fidelity Person-centric Subject-to-Image Synthesis},
   author={Wang, Yibin and Zhang, Weizhong and Zheng, Jianwei and Jin, Cheng},
-  journal={arXiv preprint arXiv:2311.10329},
+  journal={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2023}
 }
 ```
