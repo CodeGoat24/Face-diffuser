@@ -58,10 +58,11 @@ Our code borrows heavily from [Stable Diffusion](https://github.com/CompVis/stab
 If you find Face-Diffuser useful or relevant to your research, please kindly cite our paper:
 
 ```bibtex
-@article{wang2023high,
+@inproceedings{face-diffuser,
   title={High-fidelity Person-centric Subject-to-Image Synthesis},
   author={Wang, Yibin and Zhang, Weizhong and Zheng, Jianwei and Jin, Cheng},
-  journal={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7675--7684},
   year={2024}
 }
 ```
