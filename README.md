@@ -62,6 +62,9 @@ bash scripts/run_training.sh
 
 We thanks to [Stable Diffusion](https://github.com/CompVis/stable-diffusion) and [Fastcomposer](https://github.com/mit-han-lab/fastcomposer).
 
+## 🎫 License
+For non-commercial academic use, this project is licensed under [the 2-clause BSD License](https://opensource.org/license/bsd-2-clause). 
+For commercial use, please contact [Cheng Jin](jc@fudan.edu.cn).
 
 ## 🖊️ BibTeX
 
