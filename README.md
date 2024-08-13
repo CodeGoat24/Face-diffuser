@@ -51,7 +51,15 @@ bash scripts/run_inference.sh
 To generate higher-quality images, please modify the '--object_resolution' in run_inference.sh based on the input reference images.
 
 ## 💻 Training
-Prepare the FFHQ training data following [here](https://github.com/mit-han-lab/fastcomposer), and then run training:
+Prepare the FFHQ training data:
+  
+```bash 
+cd data
+wget https://huggingface.co/datasets/mit-han-lab/ffhq-fastcomposer/resolve/main/ffhq_fastcomposer.tgz
+tar -xvzf ffhq_fastcomposer.tgz
+```
+
+and then run training:
 ```bash
 bash scripts/run_training.sh
 ```
