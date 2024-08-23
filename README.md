@@ -68,10 +68,6 @@ bash scripts/run_training.sh
 
 
 
-## 🙏 Acknowledgements
-
-Our work is based on [Stable-Diffusion](https://github.com/Stability-AI/stablediffusion). 
-
 ## 🎫 License
 For non-commercial academic use, this project is licensed under [the 2-clause BSD License](https://opensource.org/license/bsd-2-clause). 
 For commercial use, please contact [Cheng Jin](jc@fudan.edu.cn).
@@ -93,3 +89,8 @@ If you find Face-diffuser useful or relevant to your research, please kindly cit
 ## 📧 Contact
 
 If you have any technical comments or questions, please open a new issue or feel free to contact [Yibin Wang](https://codegoat24.github.io).
+
+
+## 🙏 Acknowledgements
+
+Our work is based on [Stable-Diffusion](https://github.com/Stability-AI/stablediffusion), thanks to all the contributors!
