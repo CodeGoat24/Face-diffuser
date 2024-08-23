@@ -70,7 +70,7 @@ bash scripts/run_training.sh
 
 ## 🙏 Acknowledgements
 
-We thanks to [Stable Diffusion](https://github.com/CompVis/stable-diffusion) and [Fastcomposer](https://github.com/mit-han-lab/fastcomposer).
+Our work is based on [Stable-Diffusion](https://github.com/Stability-AI/stablediffusion). 
 
 ## 🎫 License
 For non-commercial academic use, this project is licensed under [the 2-clause BSD License](https://opensource.org/license/bsd-2-clause). 
