@@ -2,7 +2,7 @@
 <h1>High-fidelity Person-centric Subject-to-Image Synthesis</h1>
 
 
-[Yibin Wang](https://codegoat24.github.io)\*, [Weizhong Zhang](https://weizhonz.github.io/)\*, [Jianwei Zheng](https://zhengjianwei2.github.io/), [Cheng Jin](https://cjinfdu.github.io/)&#8224; 
+[Yibin Wang](https://codegoat24.github.io)\*, [Weizhong Zhang](https://weizhonz.github.io/)\*, [Jianwei Zheng](https://zhengjianwei2.github.io/)&#8224;, [Cheng Jin](https://cjinfdu.github.io/)&#8224; 
 
 (*equal contribution, &#8224;corresponding author)
 
